@@ -1,0 +1,14 @@
+export enum Color {
+	PURPLE = "#7C5DFA",
+	PURPLE_LIGHT = "#9277FF",
+	DARK = "#1E2139",
+	DARK_LIGHT = "#252945",
+	LIGHT = "#DFE3FA",
+	GRAY = "#888EB0",
+	PURPLE_GRAY = "#7E88C3",
+	STRONG_BLACK = "#0C0E16",
+	RED = "#EC5757",
+	RED_LIGHT = "#90caf9",
+	WHITE = "#F8F8FB",
+	BLACK = "#141625"
+}
