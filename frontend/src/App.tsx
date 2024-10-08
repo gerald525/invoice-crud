@@ -8,7 +8,7 @@ function App() {
 	const mode = useTheme().mode;
 	return (
 		<ThemeProvider theme={mode === "dark" ? darkTheme : lightTheme}>
-			<div>frontend</div>
+			<Router />
 		</ThemeProvider>
 	);
 }
